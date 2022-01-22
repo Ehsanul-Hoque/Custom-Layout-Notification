@@ -9,4 +9,9 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="show_default_notification">Show Default Notification</string>
+    <string name="show_custom_collapsed_notification">Show Custom Collapsed Notification</string>
+    <string name="show_custom_expanded_notification">Show Custom Expanded Notification</string>
+    <string name="show_custom_resizable_notification">Show Custom Collapsed/Expanded Notification</string>
+    <string name="custom_notification_background_image">Custom notification background image</string>
 </resources>
